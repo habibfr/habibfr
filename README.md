@@ -45,17 +45,22 @@
 
 ---
 
-<p>
+<p align="center">
     <a href="https://github.com/habibfr">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=habibfr&show_icons=true" />
+      <img style="margin-left: 30px"  src="https://github-readme-stats.vercel.app/api?username=habibfr&show_icons=true" />
     </a>
-</p>
     <br />
-<p>
+
     <a href="https://github.com/habibfr">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibfr&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibfr&layout=compact" />
     </a>
-</p>
+<p/>
+
+
+<br />
+<br />
+
+
 [website]: https://habibfr.github.io/
 [twitter]: https://twitter.com/
 [instagram]: https://instagram.com/habibbfr
