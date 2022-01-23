@@ -45,6 +45,8 @@
 
 ---
 
+[![Habibfr's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibfr)](https://github.com/habibfr&show_icons=true&theme=radical)
+
 [website]: https://habibfr.github.io/
 [twitter]: https://twitter.com/
 [instagram]: https://instagram.com/habibbfr
