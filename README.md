@@ -21,7 +21,7 @@
 <br />
 
 ### Glad to see you here! &nbsp;
-![](https://visitor-badge.glitch.me/badge?page_id=Nux-xader) <img src="https://img.shields.io/github/followers/Nux-xader?label=Follower" style=" float:left, margin-right:10px"/>
+![](https://visitor-badge.glitch.me/badge?page_id=habibfr) <img src="https://img.shields.io/github/followers/habibfr?label=Follower" style=" float:left, margin-right:10px"/>
 
 <br />
 
@@ -55,7 +55,6 @@
 
 <br />
 <br />
----
 
 
 [website]: https://habibfr.github.io/
