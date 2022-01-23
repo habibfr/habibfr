@@ -47,10 +47,10 @@
 
 <p align="center">
     <a href="https://github.com/habibfr">
-    <img src="https://github-readme-stats.vercel.app/api?username=habibfr&show_icons=true" />
+    <img style="margin: 10px" src="https://github-readme-stats.vercel.app/api?username=habibfr&show_icons=true" />
     </a>
     <a href="https://github.com/habibfr">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibfr&layout=compact" />
+    <img style="margin: 10px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibfr&layout=compact" />
     </a>
 </p>
 
