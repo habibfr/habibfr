@@ -49,7 +49,6 @@
     <a href="https://github.com/habibfr">
       <img style="margin-left: 30px"  src="https://github-readme-stats.vercel.app/api?username=habibfr&show_icons=true" />
     </a>
-    <br />
 
     <a href="https://github.com/habibfr">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibfr&layout=compact" />
