@@ -45,7 +45,7 @@
 
 ---
 
-[![Habibfr's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibfr)](https://github.com/habibfr&show_icons=true&theme=radical)
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=habibfr&show_icons=true&theme=radical alt=habibfr /> </p>
 
 [website]: https://habibfr.github.io/
 [twitter]: https://twitter.com/
