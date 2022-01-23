@@ -46,10 +46,10 @@
 ---
 
 <p align="center">
-    <a href="https://github.com/habibfr">
+    <a href="https://github.com/habibfr" style="margin-right: 10px">
       <img src="https://github-readme-stats.vercel.app/api?username=habibfr&show_icons=true" />
     </a>
-    <a href="https://github.com/habibfr">
+    <a href="https://github.com/habibfr" style="margin-left: 10px">
       <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibfr&layout=compact" />
     </a>
 </p>
