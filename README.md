@@ -46,12 +46,12 @@
 ---
 
 
-    <a align="center" href="https://github.com/habibfr">
-      <img src="https://github-readme-stats.vercel.app/api?username=habibfr&show_icons=true" />
+    <a href="https://github.com/habibfr">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=habibfr&show_icons=true" />
     </a>
     <br />
-    <a align="center" href="https://github.com/habibfr">
-      <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibfr&layout=compact" />
+    <a href="https://github.com/habibfr">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibfr&layout=compact" />
     </a>
 
 [website]: https://habibfr.github.io/
