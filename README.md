@@ -45,7 +45,7 @@
 
 ---
 
-<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=habibfr&show_icons=true&theme=radical alt=habibfr /> </p>
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=habibfr&show_icons=true alt=habibfr /> </p>
 
 [website]: https://habibfr.github.io/
 [twitter]: https://twitter.com/
