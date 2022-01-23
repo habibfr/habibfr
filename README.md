@@ -1,6 +1,5 @@
 # Hi there, I'm [Habib.][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<br />
 
 ### I'm a Human, Student, and Developer!!
 - 🌱 I’m currently learning everything 🤣,
@@ -9,7 +8,6 @@
 - ⚡ Hobi: Playing video game and watching anime 🔥.
 - 📫 How to reach me: habibfr986@gmail.com
 
-<br />
 
 ### Connect with me:
 [<img align="left" alt="Habibfr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -23,7 +21,6 @@
 ### Glad to see you here! &nbsp;
 ![](https://visitor-badge.glitch.me/badge?page_id=habibfr) <img src="https://img.shields.io/github/followers/habibfr?label=Follower" style=" float:left, margin-right:10px"/>
 
-<br />
 
 ### Languages and Tools:
 
