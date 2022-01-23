@@ -1,13 +1,15 @@
-<!-- ### Hi there, I'm Habib - aka [codeSTACKr] -->
+# Hi there, I'm [Habib.][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-# Hi there, I'm [Habib.][website] 👋
-
+<br />
 
 ### I'm a Human, Student, and Developer!!
 - 🌱 I’m currently learning everything 🤣,
 - 👯 I’m looking to collaborate with other programmers 💻,
 - 🥅 2022 Goals: Master of Javascripts 😄,
 - ⚡ Hobi: Playing video game and watching anime 🔥.
+- 📫 How to reach me: habibfr986a@gmail.com
+
+<br />
 
 ### Connect with me:
 [<img align="left" alt="Habibfr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -15,6 +17,11 @@
 [<img align="left" alt="Habibfr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [<img align="left" alt="Habibfr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+### Glad to see you here! &nbsp;
+![](https://visitor-badge.glitch.me/badge?page_id=Nux-xader) <img src="https://img.shields.io/github/followers/Nux-xader?label=Follower" style=" float:left, margin-right:10px"/>
 
 <br />
 
@@ -39,10 +46,7 @@
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 
-
 <br />
-<br />
-
 
 ### My Statistics
 
@@ -51,6 +55,7 @@
 
 <br />
 <br />
+---
 
 
 [website]: https://habibfr.github.io/
