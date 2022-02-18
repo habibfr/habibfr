@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate with other programmers 💻,
 - 🥅 2022 Goals: Master of Javascripts 😄,
 - ⚡ Hobi: Playing video game and watching anime 🔥.
-- 📫 How to reach me: habibfr986@gmail.com
+- 📫 How to reach me: habibfr968@gmail.com
 
 
 ### Connect with me:
