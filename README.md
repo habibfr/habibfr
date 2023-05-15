@@ -4,7 +4,7 @@
 ### I'm a Human, Student, and Developer!!
 - 🌱 I’m currently learning everything 🤣,
 - 👯 I’m looking to collaborate with other programmers 💻,
-- 🥅 2022 Goals: Master of Javascripts 😄,
+- 🥅 2023 Goals: Consistent & Focus 😄,
 - ⚡ Hobi: Playing video game and watching anime 🔥.
 - 📫 How to reach me: habibfr968@gmail.com
 
@@ -57,16 +57,16 @@
 
 
 [website]: https://habibfr.github.io/
-[twitter]: https://twitter.com/
-[instagram]: https://instagram.com/habibbfr
-[linkedin]: https://linkedin.com/in/habib-fatkhul-rohman/
-[vscode]: https://code.visualstudio.com/
+<!-- [twitter]: https://twitter.com/ -->
+[instagram]: https://www.instagram.com/haafaarou/
+[linkedin]: https://linkedin.com/in/habibfatkhulrohman/
+<!-- [vscode]: https://code.visualstudio.com/
 [js]: https://www.javascript.com/
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id
-[html]: https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id
-[react]: https://reactjs.org/
-[node]: https://nodejs.org/en/
-[mysql]: https://www.mysql.com/
-[mongoDB]:https://www.mongodb.com/
-[git]: https://git-scm.com/
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML?retiredLocale=id -->
+<!-- [react]: https://reactjs.org/ -->
+<!-- [node]: https://nodejs.org/en/ -->
+<!-- [mysql]: https://www.mysql.com/ -->
+<!-- [mongoDB]:https://www.mongodb.com/ -->
+<!-- [git]: https://git-scm.com/ -->
 [github]: https://github.com/habibfr
