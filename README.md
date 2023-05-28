@@ -2,7 +2,7 @@
 
 
 ### I'm a Human, Student, and Developer!!
-- 🌱 I’m currently learning everything 🤣,
+- 🌱 I’m currently learning mobile ,
 - 👯 I’m looking to collaborate with other programmers 💻,
 - 🥅 2023 Goals: Consistent & Focus 😄,
 - ⚡ Hobi: Playing video game and watching anime 🔥.
@@ -18,8 +18,8 @@
 
 <br />
 
-### Glad to see you here! &nbsp;
-![](https://visitor-badge.glitch.me/badge?page_id=habibfr) <img src="https://img.shields.io/github/followers/habibfr?label=Follower" style=" float:left, margin-right:10px"/>
+<!-- ### Glad to see you here! &nbsp;
+![](https://visitor-badge.glitch.me/badge?page_id=habibfr) <img src="https://img.shields.io/github/followers/habibfr?label=Follower" style=" float:left, margin-right:10px"/> -->
 
 
 <!-- ### Languages and Tools:
